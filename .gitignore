@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.nav
+*.snm
+*.toc
+*.out
+
+# Data files (distributed via Google Drive — see Data/README.md)
+*.csv
+*.dta
+*.parquet
+*.zip
