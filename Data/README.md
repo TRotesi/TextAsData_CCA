@@ -14,7 +14,9 @@ files are large and the workflow runs on Colab + Drive).
 
 | File | Used by | Size | Download |
 |---|---|---|---|
-| `spotify_millsongdata_tokenized.csv` | Class 1 notebook, Problem Set 1 | ~97 MB | [Download](https://drive.google.com/file/d/13yTtqwm8CqsmMBJrAXp9T6nE7e-RdXWG/view?usp=drive_link) |
+| `spotify_millsongdata_tokenized.csv` | Class 1 notebook, Problem Set 1 | ~97 MB | [Download](https://drive.google.com/file/d/13yTtqwm8CqsmMBJrAXp9T6nE7e-RdXWG/view?usp=sharing) |
+
+> **Access:** sign in to Google with your **unito account** to download the data file.
 
 `spotify_millsongdata_tokenized.csv` has four columns: `artist`, `song`, `text`
 (raw lyrics), and `clean` (lemmatized, lowercased, stop-word-removed tokens stored
