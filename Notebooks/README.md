@@ -10,5 +10,6 @@ of the notebook to match your Drive location.
 | Session | Notebook | Link |
 |---|---|---|
 | Class 1 | From Corpus to Validated Measure | [Open in Colab](https://drive.google.com/file/d/1Ljdgf2roXDP0c939Z8xME4PyoGk3oUCH/view?usp=sharing) |
+| Class 2 | Machine Learning with Text | [Open in Colab](https://drive.google.com/file/d/119UJKngG6OV_tnxF6r7uW3NmiOqFkVyR/view?usp=sharing) |
 
-*Notebooks for Classes 2–5 will be linked here as the course progresses.*
+*Notebooks for Classes 3–5 will be linked here as the course progresses.*

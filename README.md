@@ -109,6 +109,10 @@ limits for economic measurement.
 - Unsupervised discovery: clustering and topic models (LDA) as exploratory tools, their fragility as economic measures, and why human validation is essential.
 - Why LDA is now largely a baseline: a preview of embedding-based clustering (Class 3).
 
+**Materials:** [Slides (PDF)](slides/Class2/Class2_Slides_Torino.pdf) ·
+[Notebook (Colab)](https://drive.google.com/file/d/119UJKngG6OV_tnxF6r7uW3NmiOqFkVyR/view?usp=sharing) ·
+[Problem Set 2 (Colab)](https://drive.google.com/file/d/1uNKr8mHcRCwWpoZv_rPbeNsvRV55f3_E/view?usp=sharing)
+
 *Core readings:* Gentzkow, Shapiro, and Taddy (2019), "Measuring Group Differences
 in High-Dimensional Choices"; Kempf and Cassidy (2025), "Partisan Corporate Speech."
 
@@ -167,8 +171,8 @@ Causal Inferences Using Texts"; Battaglia, Christensen, Hansen, and Sacher (2025
 Four applied, ungraded exercises — one for each of the first four sessions. They
 consolidate the material and can be completed independently.
 
-1. **From corpus to validated measure.** Preprocessing, document-term matrices, tf-idf, PMI dictionary expansion, term rankings (PMI, optional χ², Fightin' Words), and validation against human labels. → [Open PS1 (Colab)](https://drive.google.com/file/d/170XwYpGvyyHPiF8k1C2LC53f92_uTqkK/view?usp=sharing)
-2. **Machine learning with text.** A supervised classifier trained on a labeled subset and applied at scale, plus a topic model or clustering with interpretation and validation.
+1. **From corpus to validated measure.** Preprocessing, document-term matrices, tf-idf, PMI dictionary expansion, term rankings (PMI, optional χ², Fightin' Words), and validation against human labels. → [Open PS1 (Colab)](https://drive.google.com/file/d/170XwYpGvyyHPiF8k1C2LC53f92_uTqkK/view?usp=sharing) · [Solutions](https://drive.google.com/file/d/1HMn3tDJpxGGI0FTH-3eyGpZgRVqp_0Hq/view?usp=sharing)
+2. **Machine learning with text.** A supervised classifier trained on a labeled subset and applied at scale, plus a topic model or clustering with interpretation and validation. → [Open PS2 (Colab)](https://drive.google.com/file/d/1uNKr8mHcRCwWpoZv_rPbeNsvRV55f3_E/view?usp=sharing) · [Solutions](https://drive.google.com/file/d/1ASIPr-BzxcVEm-BQZ0NVIgJIpdDUCmjs/view?usp=sharing)
 3. **Embeddings.** Training and using word/document embeddings, embedding similarity, embedding-based clustering, and embeddings as predictive features.
 4. **LLMs and the econometrics of text.** Transformer/LLM-based classification, validating model-generated annotations against a human benchmark, sample splitting, and the inferential issues when text-derived measures enter empirical designs.
 
