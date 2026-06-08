@@ -15,7 +15,8 @@ files are large and the workflow runs on Colab + Drive).
 | File | Used by | Size | Download |
 |---|---|---|---|
 | `spotify_millsongdata_tokenized.csv` | Class 1 notebook, Problem Set 1 | ~97 MB | [Download](https://drive.google.com/file/d/13yTtqwm8CqsmMBJrAXp9T6nE7e-RdXWG/view?usp=sharing) |
-| `book_reviews.csv` | Class 2 notebook, Problem Set 2 | ~66 MB | [Download](https://drive.google.com/file/d/1nKh5sR6BNHPe81CPE0iaAYW6yNhUvdrx/view?usp=sharing) |
+| `book_reviews.csv` | Class 2 notebook, Class 3 notebook, Problem Set 2 | ~66 MB | [Download](https://drive.google.com/file/d/1nKh5sR6BNHPe81CPE0iaAYW6yNhUvdrx/view?usp=sharing) |
+| `american_stories_1858_1958.parquet` | Class 3 notebook | ~11 MB | [Download](https://drive.google.com/file/d/12uh_HRrQWqjkeNlOjiHR1biWWpMHT9GG/view?usp=sharing) |
 
 > **Access:** sign in to Google with your **unito account** to download the data files.
 
@@ -27,6 +28,15 @@ seconds.
 `book_reviews.csv` is a corpus of book reviews used for two supervised tasks in
 Class 2: sentiment classification (from `review/text` and the star rating
 `review/score`) and predicting review helpfulness (`review_positive_help`,
-`review_tot_help`, plus metadata such as `len` and `review_n`).
+`review_tot_help`, plus metadata such as `len` and `review_n`). The Class 3 notebook
+reuses the same file for its gendered-language capstone (subject–verb PMI on
+`review/text`).
+
+`american_stories_1858_1958.parquet` is a subset of the *American Stories* corpus of
+historical US newspaper articles (Dell et al., Harvard), holding 8,000 articles each
+from 1858 and 1958 with columns `headline`, `article`, `newspaper_name`, `date`, and
+`year`. The Class 3 notebook builds this file once from Hugging Face on first run; the
+download link above lets you skip that step and place the ready-made file directly in
+your `Input/` folder.
 
 *Datasets for later sessions will be added here as the course progresses.*

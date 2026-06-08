@@ -128,6 +128,9 @@ foundation that modern discovery and transformer models are built on.
 - Embedding-based clustering as the modern successor to LDA.
 - Pre-trained versus custom-trained vectors, and what works for applied research.
 
+**Materials:** [Slides (PDF)](slides/Class3/Class3_Slides_Torino.pdf) ·
+[Notebook (Colab)](https://drive.google.com/file/d/1HiSfIRO-L1XGEHgJazeGFRVEzAC_jCCP/view?usp=sharing)
+
 *Core readings:* Rodriguez and Spirling (2022), "Word Embeddings: What Works, What
 Doesn't"; Li, Mai, Shen, and Yan (2021), "Measuring Corporate Culture Using Machine
 Learning."
