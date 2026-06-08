@@ -129,7 +129,8 @@ foundation that modern discovery and transformer models are built on.
 - Pre-trained versus custom-trained vectors, and what works for applied research.
 
 **Materials:** [Slides (PDF)](slides/Class3/Class3_Slides_Torino.pdf) ·
-[Notebook (Colab)](https://drive.google.com/file/d/1HiSfIRO-L1XGEHgJazeGFRVEzAC_jCCP/view?usp=sharing)
+[Notebook (Colab)](https://drive.google.com/file/d/1HiSfIRO-L1XGEHgJazeGFRVEzAC_jCCP/view?usp=sharing) ·
+[Problem Set 3 (Colab)](https://drive.google.com/file/d/1YIB-vkF3-6lsVJM-XqqlJN7DeHl0tW77/view?usp=sharing)
 
 *Core readings:* Rodriguez and Spirling (2022), "Word Embeddings: What Works, What
 Doesn't"; Li, Mai, Shen, and Yan (2021), "Measuring Corporate Culture Using Machine
@@ -176,7 +177,7 @@ consolidate the material and can be completed independently.
 
 1. **From corpus to validated measure.** Preprocessing, document-term matrices, tf-idf, PMI dictionary expansion, term rankings (PMI, optional χ², Fightin' Words), and validation against human labels. → [Open PS1 (Colab)](https://drive.google.com/file/d/170XwYpGvyyHPiF8k1C2LC53f92_uTqkK/view?usp=sharing) · [Solutions](https://drive.google.com/file/d/1HMn3tDJpxGGI0FTH-3eyGpZgRVqp_0Hq/view?usp=sharing)
 2. **Machine learning with text.** A supervised classifier trained on a labeled subset and applied at scale, plus a topic model or clustering with interpretation and validation. → [Open PS2 (Colab)](https://drive.google.com/file/d/1uNKr8mHcRCwWpoZv_rPbeNsvRV55f3_E/view?usp=sharing) · [Solutions](https://drive.google.com/file/d/1ASIPr-BzxcVEm-BQZ0NVIgJIpdDUCmjs/view?usp=sharing)
-3. **Embeddings.** Training and using word/document embeddings, embedding similarity, embedding-based clustering, and embeddings as predictive features.
+3. **Embeddings.** Training and using word/document embeddings, embedding similarity, embedding-based clustering, and embeddings as predictive features. → [Open PS3 (Colab)](https://drive.google.com/file/d/1YIB-vkF3-6lsVJM-XqqlJN7DeHl0tW77/view?usp=sharing)
 4. **LLMs and the econometrics of text.** Transformer/LLM-based classification, validating model-generated annotations against a human benchmark, sample splitting, and the inferential issues when text-derived measures enter empirical designs.
 
 See [`problem_sets/`](problem_sets/) for links.
