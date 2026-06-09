@@ -21,7 +21,7 @@ files are large and the workflow runs on Colab + Drive).
 | `pericopes_subset.csv` | Class 4 notebook | ~0.4 MB | [Download](https://drive.google.com/file/d/14z0yqcPHFy7lBA8lu_pjUGFQ8NDeZYEY/view?usp=sharing) |
 | `gemini25_answers.json` | Class 4 notebook | ~45 KB | [Download](https://drive.google.com/file/d/1Dc8tMzpoGHm06ZyODLTpb0kVhS6D1u2R/view?usp=sharing) |
 | `gemini35_answers.json` | Class 4 notebook | ~40 KB | [Download](https://drive.google.com/file/d/1DScPfZfcj280fWs1JF1ehzxMArd_3cwd/view?usp=sharing) |
-| `paradigm2_cache.json` | Class 4 notebook | ~47 KB | [Download](https://drive.google.com/file/d/1DScPfZfcj280fWs1JF1ehzxMArd_3cwd/view?usp=sharing) |
+| `paradigm2_cache.json` | Class 4 notebook | ~47 KB | [Download](https://drive.google.com/file/d/1nXeehjZuZ8qbKwT1iw-kv4O373d9MHbg/view?usp=sharing) |
 
 > **Access:** sign in to Google with your **unito account** to download the data files.
 
