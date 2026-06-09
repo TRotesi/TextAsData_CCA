@@ -18,6 +18,10 @@ files are large and the workflow runs on Colab + Drive).
 | `book_reviews.csv` | Class 2 notebook, Class 3 notebook, Problem Set 2 | ~66 MB | [Download](https://drive.google.com/file/d/1nKh5sR6BNHPe81CPE0iaAYW6yNhUvdrx/view?usp=sharing) |
 | `book_reviews_subset.csv` | Problem Set 3 | ~12 MB | [Download](https://drive.google.com/file/d/1ZtKQkJwVUSJr-UBJeuMIGDEeLGxggWmV/view?usp=sharing) |
 | `american_stories_1858_1958.parquet` | Class 3 notebook | ~11 MB | [Download](https://drive.google.com/file/d/12uh_HRrQWqjkeNlOjiHR1biWWpMHT9GG/view?usp=sharing) |
+| `pericopes_subset.csv` | Class 4 notebook | ~0.4 MB | [Download](https://drive.google.com/file/d/14z0yqcPHFy7lBA8lu_pjUGFQ8NDeZYEY/view?usp=sharing) |
+| `gemini25_answers.json` | Class 4 notebook | ~45 KB | [Download](https://drive.google.com/file/d/1Dc8tMzpoGHm06ZyODLTpb0kVhS6D1u2R/view?usp=sharing) |
+| `gemini35_answers.json` | Class 4 notebook | ~40 KB | [Download](https://drive.google.com/file/d/1DScPfZfcj280fWs1JF1ehzxMArd_3cwd/view?usp=sharing) |
+| `paradigm2_cache.json` | Class 4 notebook | ~47 KB | [Download](https://drive.google.com/file/d/1DScPfZfcj280fWs1JF1ehzxMArd_3cwd/view?usp=sharing) |
 
 > **Access:** sign in to Google with your **unito account** to download the data files.
 
@@ -46,4 +50,13 @@ from 1858 and 1958 with columns `headline`, `article`, `newspaper_name`, `date`,
 download link above lets you skip that step and place the ready-made file directly in
 your `Input/` folder.
 
-*Datasets for later sessions will be added here as the course progresses.*
+The **Class 4** files support the LLMs-as-measurement session. `pericopes_subset.csv` is a
+sample of 200 well-known Bible pericopes (passages) — columns `id`, `book`, `reference`,
+`title`, `testament`, `sermon_count`, and `text` — used as a public, recognizable corpus for
+annotation. The three JSON files are the **cached LLM outputs** so the notebook runs without
+an API key: `gemini25_answers.json` and `gemini35_answers.json` hold each passage's labels
+(narrative / topics / challenges-tradition) from Gemini 2.5 Flash and 3.5 Flash for the
+model-vs-model reliability analysis; `paradigm2_cache.json` holds the simulated passages and
+re-labelings used for the benchmark-free validation test (Hansen 2026).
+
+*Datasets for Class 5 will be added here as the course progresses.*

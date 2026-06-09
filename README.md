@@ -148,6 +148,9 @@ between open-weight and closed models treated as first-order concerns.
 - Validating LLM-generated labels against human benchmarks; treating model labels as a source of measurement error.
 - Open-weight, replicable pipelines versus closed-API tools.
 
+**Materials:** [Slides (PDF)](slides/Class4/Class4_Slides_Torino.pdf) ·
+[Notebook (Colab)](https://drive.google.com/file/d/1bbIh9satTc2mNTcPqcKNJ013GpcNOIyl/view?usp=sharing)
+
 *Core readings:* Gilardi, Alizadeh, and Kubli (2023), "ChatGPT Outperforms Crowd
 Workers for Text-Annotation Tasks"; Hansen (2026), "Validating Large Language Model
 Annotations"; Asirvatham, Mokski, and Shleifer (2026), "GPT as a Measurement Tool."
