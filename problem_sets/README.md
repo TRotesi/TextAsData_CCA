@@ -1,6 +1,6 @@
 # Problem Sets
 
-Four applied, **ungraded** exercises — one for each of the first four sessions.
+Three applied, **ungraded** exercises — one for each of the first three sessions.
 They consolidate the material and can be completed independently. Each runs on
 **Google Colab**: open the link, then **File → Save a copy in Drive**.
 
@@ -11,7 +11,6 @@ Datasets are described in [`../Data/README.md`](../Data/README.md).
 | PS1 | From corpus to validated measure | [Open in Colab](https://drive.google.com/file/d/170XwYpGvyyHPiF8k1C2LC53f92_uTqkK/view?usp=sharing) | [Solutions](https://drive.google.com/file/d/1HMn3tDJpxGGI0FTH-3eyGpZgRVqp_0Hq/view?usp=sharing) |
 | PS2 | Machine learning with text | [Open in Colab](https://drive.google.com/file/d/1uNKr8mHcRCwWpoZv_rPbeNsvRV55f3_E/view?usp=sharing) | [Solutions](https://drive.google.com/file/d/1ASIPr-BzxcVEm-BQZ0NVIgJIpdDUCmjs/view?usp=sharing) |
 | PS3 | Embeddings | [Open in Colab](https://drive.google.com/file/d/1YIB-vkF3-6lsVJM-XqqlJN7DeHl0tW77/view?usp=sharing) | *to be added* |
-| PS4 | LLMs and the econometrics of text | *to be added* | *to be added* |
 
 **PS1** covers preprocessing, document-term matrices, tf-idf, PMI dictionary
 expansion, term rankings (PMI, optional χ², Fightin' Words), and validation against
